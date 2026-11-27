@@ -1,6 +1,6 @@
-# RoboKids Academy — Documentación
+# TIRR — Documentación del sitio
 
-Documentación funcional y técnica de la plataforma para administrar campeonatos de robótica. Esta carpeta organiza la visión, los requisitos, las historias, la arquitectura y los diagramas del proyecto.
+Documentación funcional y técnica del sitio web TIRR y de las capacidades descritas en su checklist. Esta carpeta organiza la visión, los requisitos, las historias, la arquitectura y los diagramas del proyecto.
 
 ## Índice
 
@@ -28,6 +28,5 @@ Las historias HU-001 a HU-015 son borradores derivados del checklist y esperan v
 
 ## Pendientes generales
 
-> PENDIENTE: Confirmar nombre oficial del producto (el checklist fuente lo llama TIRR; esta carpeta solicitada se llama RoboKids-Academy-Doc).
 > PENDIENTE: Aprobar alcance, arquitectura, pasarela de pago, políticas operativas y rúbrica documental.
 > PENDIENTE: Definir RNF medibles, historias de usuario, criterios de aceptación y casos de prueba.
